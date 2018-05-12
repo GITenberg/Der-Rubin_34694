@@ -1,0 +1,28 @@
+_repo: Der-Rubin_34694
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sack, Gustav
+    birthdate: 1885
+    deathdate: 1916
+    gutenberg_agent_id: '37170'
+    url: http://www.gutenberg.org/2009/agents/37170
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34694'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'German fiction'
+- !lcc 'PT'
+title: Der Rubin
+url: http://www.gutenberg.org/ebooks/34694
